@@ -16,11 +16,18 @@
 ### Step 3.:- Save the file and export as .stl
 ### Step 4.:- Check all Electrical connections in the 3D printer.
 ### Step 5.:- First we install the software related the 3D printer (idea maker, ultimaker etc.)In idea maker first open the software and click the open file option.
+![image](https://github.com/ezhilnevedha/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/140057992/fdae2233-5324-4ed6-afe9-5bcb0b3508bc)
+
 ### Step 6.:- Select the Pan option and select the extruder (left or right) for printing the design.
 ### Step 7.:- Select the Move option for design print position in build tack plate and then after select the Rotate option for rotating the design easily printed and used low print material.
-### Step 8.:- select the Scale option for design scale according to build tack plate area and then
-### after click the start option and select printing option standard as shown in below figure.
+![image](https://github.com/ezhilnevedha/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/140057992/b7e0bf8b-b8c7-4c68-b5c4-c21c1d8f45d3)
+
+### Step 8.:- select the Scale option for design scale according to build tack plate area and then after click the start option and select printing option standard as shown in below figure.
+![image](https://github.com/ezhilnevedha/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/140057992/bd9db4fa-c9ac-4a63-9344-9591f7c8f149)
+
 ### Step 9.:- After completing the all setting then click the Slice option and export the file in gcode Format.
+![image](https://github.com/ezhilnevedha/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/140057992/468d1eaf-3a55-4887-a403-4c2b1555a327)
+
 ### Step 10.:- After generate the gcode format then follow the these instruction 
   ###   ●	Switch on the 3d printer.
   ###   ●	Place your Pen drive in USB.
@@ -31,12 +38,14 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
+![image](https://github.com/ezhilnevedha/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/140057992/f66d5bb6-eb52-46c5-a8b4-54363383aff6)
 
 ### Output:
+![image](https://github.com/ezhilnevedha/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/140057992/e3eb046f-31dd-49fd-bb4e-b32fa3131997)
 
 
-### Name:
-### Register Number:
+### Name:EZHIL NEVEDHA.K
+### Register Number:23007496
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
